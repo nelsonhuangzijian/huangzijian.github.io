@@ -27,14 +27,15 @@ My research interests include:
 * Natural Language Processing
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LinE: Logical Query Reasoning over Hierarchical Knowledge](http://nelsonhuangzijian_backup.github.io/files/LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graphs.pdf
+[LinE: Logical Query Reasoning over Hierarchical Knowledge](https://www.researchgate.net/publication/362279679_LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graph
 ) \\
-**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee. \\
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE)
 </div>
@@ -47,16 +48,20 @@ Findings of The 62nd Annual Meeting of the Association for Computational Linguis
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
 The 26th European Conference on Artificial Intelligence
 
-# 🎖 Honors and Awards
-- *2023* University of Auckland Doctoral Scholarships
 
-# 📖 Educations
+# Educations
 - *2023 - Now*, Ph.D. candidate in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang and Sebastian Link)
 - *2021 - 2022*, M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang)
 - *2016 - 2019*, B.Sc. in Computer Science, The University of Auckland, New Zealand
 
-# 💻 Work Experience
+# Work Experience
 - *2022.03 - 2022.08*, Intern, Guangzhou Urban Planning & Design Survey Research Institute, China.
+
+# Teaching
+- *2024 S2*, Teaching Assistant, Algorithms for Massive Data (COMPSCI 753), The University of Auckland.
+
+# Honors and Awards
+- *2023*, University of Auckland Doctoral Scholarships
 
 # Professional Services
 - Program Committee Member: ECAI 2023, EMNLP 2023
