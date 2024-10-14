@@ -29,10 +29,11 @@ My research interests include:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"KDD 2022</div><img src='\' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LinE: Logical Query Reasoning over Hierarchical Knowledge](http://nelsonhuangzijian.github.io/files/LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graphs.pdf) \\
+[LinE: Logical Query Reasoning over Hierarchical Knowledge](http://nelsonhuangzijian_backup.github.io/files/LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graphs.pdf
+) \\
 **Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE)
