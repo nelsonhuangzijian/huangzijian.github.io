@@ -41,27 +41,27 @@ The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 </div>
 </div>
 
-- ``ACL 2024 Findings`` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf)<br>
+- `ACL Findings 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf)<br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
 Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
-- ``ECAI 2023`` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach)<br>
+- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach)<br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
 The 26th European Conference on Artificial Intelligence
 
 
 # Educations
-- *2023 - Now*, Ph.D. candidate in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang and Sebastian Link)
-- *2021 - 2022*, M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang)
-- *2016 - 2019*, B.Sc. in Computer Science, The University of Auckland, New Zealand
+- Ph.D. candidate in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang and Sebastian Link), *2023 - Now*
+- M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang), *2021 - 2022*
+- B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
 
 # Work Experience
-- *2022.03 - 2022.08*, Intern, Guangzhou Urban Planning & Design Survey Research Institute, China.
+- Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # Teaching
-- *2024 S2*, Teaching Assistant, Algorithms for Massive Data (COMPSCI 753), The University of Auckland.
+- Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, The University of Auckland.
 
 # Honors and Awards
-- *2023*, University of Auckland Doctoral Scholarships
+- University of Auckland Doctoral Scholarships, *2023*
 
 # Professional Services
 - Program Committee Member: ECAI 2023, EMNLP 2023
