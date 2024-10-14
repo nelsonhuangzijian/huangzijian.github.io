@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Computer Science, the University of Auckland. My supervisors are [Dr. Meng-Fen Chiang](https://ankechiang.github.io/) and [Prof. Sebastian Link](https://profiles.auckland.ac.nz/s-link). I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by Dr. Meng-Fen Chiang and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/) (Penn State University).
+I am a Ph.D. candidate at the School of Computer Science, the University of Auckland. My supervisors are [Dr. Meng-Fen Chiang](https://ankechiang.github.io/) and [Prof. Sebastian Link](https://profiles.auckland.ac.nz/s-link).
+
+I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by Dr. Meng-Fen Chiang and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/) (Penn State University).
 
 My research interests include:
 * Knowledge Graph Representation Learning
@@ -27,19 +29,22 @@ My research interests include:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"KDD 2022</div><img src='\' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LinE: Logical Query Reasoning over Hierarchical Knowledge](http://nelsonhuangzijian.github.io/files/LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graphs.pdf) \\
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/nelsonhuangzijian/LinE)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``ACL 2024 Findings`` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf)<br>
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
+Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
+- ``ECAI 2023`` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach)<br>
+Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
+The 26th European Conference on Artificial Intelligence
 
 # 🎖 Honors and Awards
 - *2023* University of Auckland Doctoral Scholarships
@@ -49,5 +54,10 @@ My research interests include:
 - *2021 - 2022*, M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang)
 - *2016 - 2019*, B.Sc. in Computer Science, The University of Auckland, New Zealand
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2022.03 - 2022.08*, Intern, Guangzhou Urban Planning & Design Survey Research Institute, China.
+
+# Professional Services
+- Program Committee Member: ECAI 2023, EMNLP 2023
+- Journal Reviewer: TOIS
+- External Reviewer: PAKDD 2022
