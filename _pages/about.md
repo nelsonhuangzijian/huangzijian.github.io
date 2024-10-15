@@ -33,25 +33,27 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 [LinE: Logical Query Reasoning over Hierarchical Knowledge](https://www.researchgate.net/publication/362279679_LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graph
-) \\
-**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee. \\
+) <br>
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee. <br>
 The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[**Project**](https://github.com/nelsonhuangzijian/LinE)
+[**Project**](https://github.com/nelsonhuangzijian/LinE) <span class='show_paper_citations' data='CG6rNcwAAAAJ:IjCSPb-OGe4C'></span>
 </div>
 </div>
 
-- `ACL Findings 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf)<br>
+- `ACL Findings 2024` [SKGSum: Structured Knowledge-Guiding Document Summarization](https://aclanthology.org/2024.findings-acl.110.pdf) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, **Zijian Huang**.<br>
 Findings of The 62nd Annual Meeting of the Association for Computational Linguistics
-- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach)<br>
+- `ECAI 2023` [Towards Legal Judgment Summarization: A Structure-Enhanced Approach](https://www.researchgate.net/publication/374305915_Towards_Legal_Judgment_Summarization_A_Structure-Enhanced_Approach) <br>
 Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zeyu Zhang, **Zijian Huang**.<br>
 The 26th European Conference on Artificial Intelligence
 
 
 # 📖 Educations
-- Ph.D. candidate in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang and Sebastian Link), *2023 - Now*
-- M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang), *2021 - 2022*
+- Ph.D. candidate in Computer Science, The University of Auckland, New Zealand, *2023 - Now* <br>
+  (Supervised by Meng-Fen Chiang and Sebastian Link)
+- M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand, *2021 - 2022* <br>
+  (Supervised by Meng-Fen Chiang)
 - B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
 
 # 💻 Work Experience
