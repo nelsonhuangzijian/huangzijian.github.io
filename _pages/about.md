@@ -27,7 +27,7 @@ My research interests include:
 * Natural Language Processing
 
 
-# Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
