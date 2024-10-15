@@ -2,10 +2,7 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  # - title: "News"
-  #   url: "/#-news"
-
+    
   - title: "Publications"
     url: "/#-publications"
 
@@ -13,7 +10,7 @@ main:
     url: "/#-educations"
 
   - title: "Work Experience"
-    url: "/#-works"
+    url: "/#-work-experience"
 
   - title: "Teaching"
     url: "/#-teaching"
@@ -22,6 +19,4 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Professional Services"
-    url: "/#-services"
-
-  
+    url: "/#-professional-services"
