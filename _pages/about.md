@@ -37,7 +37,7 @@ My research interests include:
 **Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee. <br>
 The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[**Project**](https://github.com/nelsonhuangzijian/LinE) <span class='show_paper_citations' data='CG6rNcwAAAAJ:IjCSPb-OGe4C'></span>
+[**Project**](https://github.com/nelsonhuangzijian/LinE) <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
 </div>
 
