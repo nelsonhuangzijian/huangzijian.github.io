@@ -49,7 +49,7 @@ Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Xianda Zheng, Zey
 The 26th European Conference on Artificial Intelligence
 
 
-# Educations
+#  Educations
 - Ph.D. candidate in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang and Sebastian Link), *2023 - Now*
 - M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand (Supervised by Meng-Fen Chiang), *2021 - 2022*
 - B.Sc. in Computer Science, The University of Auckland, New Zealand, *2016 - 2019*
