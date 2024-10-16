@@ -19,12 +19,14 @@ redirect_from:
 
 I am a Ph.D. candidate at the School of Computer Science, the University of Auckland. My supervisors are [Dr. Meng-Fen Chiang](https://ankechiang.github.io/) and [Prof. Sebastian Link](https://profiles.auckland.ac.nz/s-link).
 
-I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by Dr. Meng-Fen Chiang and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/) (Penn State University).
+I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by Dr. Meng-Fen Chiang and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/) from Penn State University. 
 
 My research interests include:
 * Knowledge Graph Representation Learning
 * Knowledge Graph Query Answering
 * Natural Language Processing
+
+<a href='https://scholar.google.com/citations?user=CG6rNcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 📝 Publications 
