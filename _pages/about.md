@@ -36,8 +36,8 @@ My research interests include:
 
 [LinE: Logical Query Reasoning over Hierarchical Knowledge Graph](https://www.researchgate.net/publication/362279679_LinE_Logical_Query_Reasoning_over_Hierarchical_Knowledge_Graph
 ) <br>
-**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee. <br>
-The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+**Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.<br>
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining<br>
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE) <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:IjCSPb-OGe4C'></span></strong>
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
