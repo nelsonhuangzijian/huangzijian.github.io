@@ -30,7 +30,6 @@ My research interests include:
 <a href='https://scholar.google.com/citations?user=CG6rNcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 -->
 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2022</div><img src='images/line.png' alt="sym" width="100%"></div></div>
@@ -40,6 +39,8 @@ My research interests include:
 )
 
 **Zijian Huang**, Meng-Fen Chiang, Wang-Chien Lee.
+
+The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [**Project**](https://github.com/nelsonhuangzijian/LinE) <strong><span class='show_paper_citations' data='CG6rNcwAAAAJ:IjCSPb-OGe4C'></span></strong>
 - [WN18RR Hierarchical KG benchmark](https://github.com/nelsonhuangzijian/WN18RR-QA)
@@ -65,7 +66,7 @@ The 26th European Conference on Artificial Intelligence
 - Intern, Guangzhou Urban Planning & Design Survey Research Institute, China, *2022.03 - 2022.08*
 
 # 📖 Teaching
-- Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, The University of Auckland.
+- Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, The University of Auckland
 
 # 🎖 Honors and Awards
 - University of Auckland Doctoral Scholarships, *2023*
